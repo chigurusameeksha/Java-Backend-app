@@ -34,5 +34,3 @@ The BlueWave Store uses **Docker secrets** to secure sensitive information, such
    docker secret create postgres_password certs/domain.key
 
 
-Create Payment Gateway Secret
-To set up a secret for staging the payment gateway, run:
